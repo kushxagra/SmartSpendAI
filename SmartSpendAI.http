@@ -1,6 +1,1 @@
-@SmartSpendAI_HostAddress = http://localhost:5086
 
-GET {{SmartSpendAI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
